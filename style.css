@@ -1,0 +1,48 @@
+
+.nav{
+    position:fixed;
+}
+
+
+    
+    
+.p{
+    text-align: center;
+}
+
+.avis {
+    
+    margin-top: 50px;
+    border: 1px solid black;
+    justify-content: space-around;
+}
+body{
+    background-color: black;
+}
+img-fluid {
+    width: 200px;
+    height: 200px;
+    
+}
+
+
+    
+}
+iframe{
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+.jumbotron {
+    
+    background-color: red;
+    
+}
+.fin {
+    border: 20px solid black;
+    border-radius: 150px;
+}
