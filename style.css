@@ -51,3 +51,7 @@ iframe{
 .space {
     justify-content: space-between;
 }
+body {
+    width: 100vw;
+overflow-x: hidden;;
+}
